@@ -38,6 +38,9 @@ to login ,when clicked on login it directs to login page where you need to enter
 then successfully logged in page is opened showing that attendance is marked.
 when we check Attendance.csv file,we will be seeing that attendance is marked...!!
 
+Video demo link-https://youtu.be/J-Awd_V52wM
+Presentation link-https://www.canva.com/design/DAFB6n2Ocd8/FRQ1DCASVIJC-6fLhRIL6Q/edit?utm_content=DAFB6n2Ocd8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
