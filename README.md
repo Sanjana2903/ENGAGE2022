@@ -27,6 +27,18 @@ BEFORE RUNNING:
 Make sure that the flask module is installed.
 Face_recognition library is installed properly.
 
+TO USE THE APPLICATION:
+First a page will be opened asking to ligin/register
+< img src="/Users/sanjanabathuka/Desktop/final_project/face_recog_attendance/readme_imgs" />
+then for the one new to this website if we click on register it shows
+< img src="/Users/sanjanabathuka/Desktop/final_project/face_recog_attendance/readme_imgs" />
+then it registers by capturing face
+to login ,when clicked on login it directs to login page where you need to enter credentials and it captures face matching with registered face
+< img src="/Users/sanjanabathuka/Desktop/final_project/face_recog_attendance/readme_imgs" />
+then successfully logged in page is opened showing that attendance is marked.
+when we check Attendance.csv file,we will be seeing that attendance is marked...!!
+
+
 
 
 
