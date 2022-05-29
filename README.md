@@ -10,13 +10,14 @@ This is a simple application, which can be used in any organisation to mark thei
 BACKEND:
 Python
 Pickle
+Flask
 FRONTEND:
 Html,css,js
 
 LIBRARIES USED:
 - Python-face_recognition (which I’ve downloaded from git )
-- Python pickle (for sorting data)
-- Heroku (to deploy the application)
+- Python pickle (for storing data)
+- Flask (for developing web application using python)
 
 HOW DOES THIS WORK:
 - Download/Clone the repository to your local system
